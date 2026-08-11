@@ -68,7 +68,7 @@ Conquistar minha **primeira oportunidade na área de TI**, adquirir experiência
 
 <div align="center">
 
-### Ainda aprendendo. Já fazendo acontecer
+### Ainda aprendendo. Já fazendo acontecer.
 
 <br>
 
