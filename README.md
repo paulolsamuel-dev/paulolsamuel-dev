@@ -6,8 +6,6 @@
 
 **Desenvolvedor em formação | HTML5 • CSS3 • JavaScript**
 
-📍 Brasília - DF
-
 </div>
 
 ---
@@ -16,59 +14,71 @@
 
 Olá! Eu sou o Paulo Samuel.
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília (UCB)** e estou construindo minha carreira na área de Tecnologia da Informação.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha carreira na área de Tecnologia da Informação.
 
-Atualmente tenho foco em **desenvolvimento web**, com conhecimentos em **HTML5 e CSS3**, e estou iniciando meus estudos em **JavaScript**.
+Atualmente tenho foco em **desenvolvimento web**, estudando e praticando principalmente **HTML5, CSS3 e JavaScript**.
 
-Também tenho interesse em **hardware e compatibilidade de componentes**, área na qual desenvolvi conhecimento ao longo dos anos.
+Gosto de aprender colocando a mão na massa, criando projetos e tentando entender como as coisas funcionam na prática.
 
-Estou buscando minha **primeira oportunidade profissional em TI**, com o objetivo de colocar meus conhecimentos em prática, aprender com profissionais mais experientes e continuar evoluindo.
+Também tenho interesse em **hardware e compatibilidade de componentes**, área na qual desenvolvi bastante conhecimento ao longo dos anos.
+
+Meu objetivo é continuar evoluindo, construir um bom portfólio e conquistar minha **primeira oportunidade profissional em TI**.
 
 ---
 
 ## 💻 Conhecimentos
 
-- **HTML5** — Intermediário
-- **CSS3** — Intermediário
-- **JavaScript** — Iniciante
-- **Git e GitHub** — Básico
-- Desenvolvimento de páginas web
-- Lógica de programação
-- Hardware e compatibilidade de componentes — Intermediário
+- 🌐 **HTML5**
+- 🎨 **CSS3**
+- ⚡ **JavaScript** — em aprendizado
+- 🔧 **Git e GitHub**
+- 🧠 **Lógica de programação**
+- 🖥️ **Hardware e compatibilidade de componentes**
 
 ---
 
 ## 📚 Formação
 
-**Análise e Desenvolvimento de Sistemas**  
-Universidade Católica de Brasília — UCB
+### Análise e Desenvolvimento de Sistemas
 
-**4º semestre — em andamento**  
-Previsão de conclusão: 2027
+**Universidade Católica de Brasília — UCB**
+
+🎓 Curso em andamento
 
 ---
 
-## 📖 Cursos Complementares
+## 📖 Estudos
 
-**Curso em Vídeo — Prof. Gustavo Guanabara**
+### Curso em Vídeo — Gustavo Guanabara
 
 - HTML5 e CSS3
 - JavaScript — em aprendizado
 
 ---
 
+## 🚀 Projetos
+
+Atualmente estou desenvolvendo projetos para praticar meus conhecimentos e construir meu portfólio.
+
+Os projetos podem ser encontrados na aba **Repositories** do meu perfil.
+
+---
+
 ## 🎯 Atualmente
 
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
-- 🌐 Aprimorando meus conhecimentos em HTML5 e CSS3
+- 🌐 Aperfeiçoando meus conhecimentos em HTML5 e CSS3
 - ⚡ Estudando JavaScript
-- 🛠️ Desenvolvendo projetos para meu portfólio
-- 💻 Explorando e aprimorando meus conhecimentos em tecnologia
+- 🛠️ Criando projetos para meu portfólio
+- 🐙 Aprendendo e utilizando Git e GitHub
+- 💻 Aprofundando meus conhecimentos em hardware
 - 🚀 Buscando minha primeira oportunidade profissional em TI
 
 ---
 
 ## 🌎 Idiomas
+
+**Português:** Nativo
 
 **Inglês:** Básico
 
@@ -78,9 +88,18 @@ Previsão de conclusão: 2027
 
 📧 **Email:** paulo.luciano513@gmail.com
 
-📍 **Brasília - DF**
-
 💻 **GitHub:** [paulosamuel-dev](https://github.com/paulosamuel-dev)
 
 ---
 
+<div align="center">
+
+### Ainda aprendendo. Já fazendo acontecer.
+
+<br>
+
+<img src="./paulosamuel-github-pcman-hq.gif" width="720">
+
+<br>
+
+</div>
