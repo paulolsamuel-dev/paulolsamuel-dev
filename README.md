@@ -4,7 +4,9 @@
 
 ### 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-**Desenvolvedor em formação | HTML5 • CSS3 • JavaScript**
+**💻 Desenvolvedor em formação | HTML5 • CSS3 • JavaScript**
+
+📍 Brasília - DF
 
 </div>
 
@@ -14,42 +16,38 @@
 
 Olá! Eu sou o Paulo Samuel.
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha carreira na área de Tecnologia da Informação.
+Sou estudante de **Análise e Desenvolvimento de Sistemas na UCB** e estou iniciando minha trajetória na área de TI.
 
-Atualmente tenho foco em **desenvolvimento web**, estudando e praticando principalmente **HTML5, CSS3 e JavaScript**.
+Atualmente estudo **desenvolvimento web**, principalmente **HTML5 e CSS3**, e estou começando a aprender **JavaScript**.
 
-Gosto de aprender colocando a mão na massa, criando projetos e tentando entender como as coisas funcionam na prática.
+Também tenho interesse em **hardware e componentes de PC**.
 
-Também tenho interesse em **hardware e compatibilidade de componentes**, área na qual desenvolvi bastante conhecimento ao longo dos anos.
-
-Meu objetivo é continuar evoluindo, construir um bom portfólio e conquistar minha **primeira oportunidade profissional em TI**.
+Estou usando este espaço para compartilhar meus estudos e acompanhar minha evolução na área de tecnologia. 🚀
 
 ---
 
-## 💻 Conhecimentos
+## 🛠️ Conhecimentos
 
-- 🌐 **HTML5**
-- 🎨 **CSS3**
-- ⚡ **JavaScript** — em aprendizado
-- 🔧 **Git e GitHub**
-- 🧠 **Lógica de programação**
-- 🖥️ **Hardware e compatibilidade de componentes**
+🌐 **HTML5**  
+🎨 **CSS3**  
+⚡ **JavaScript** — em aprendizado  
+🐙 **Git & GitHub**  
+🧠 **Lógica de programação**  
+🖥️ **Hardware e componentes de PC**
 
 ---
 
 ## 📚 Formação
 
-### Análise e Desenvolvimento de Sistemas
-
-**Universidade Católica de Brasília — UCB**
-
-🎓 Curso em andamento
+🎓 **Análise e Desenvolvimento de Sistemas**  
+Universidade Católica de Brasília — UCB  
+📖 Em andamento
 
 ---
 
-## 📖 Estudos
+## 📖 Cursos
 
-### Curso em Vídeo — Gustavo Guanabara
+**Curso em Vídeo — Gustavo Guanabara**
 
 - HTML5 e CSS3
 - JavaScript — em aprendizado
@@ -58,37 +56,13 @@ Meu objetivo é continuar evoluindo, construir um bom portfólio e conquistar mi
 
 ## 🚀 Projetos
 
-Atualmente estou desenvolvendo projetos para praticar meus conhecimentos e construir meu portfólio.
-
-Os projetos podem ser encontrados na aba **Repositories** do meu perfil.
+Meus projetos de estudo estão disponíveis nos repositórios deste perfil.
 
 ---
 
-## 🎯 Atualmente
+## 🎯 Objetivo
 
-- 📚 Cursando Análise e Desenvolvimento de Sistemas
-- 🌐 Aperfeiçoando meus conhecimentos em HTML5 e CSS3
-- ⚡ Estudando JavaScript
-- 🛠️ Criando projetos para meu portfólio
-- 🐙 Aprendendo e utilizando Git e GitHub
-- 💻 Aprofundando meus conhecimentos em hardware
-- 🚀 Buscando minha primeira oportunidade profissional em TI
-
----
-
-## 🌎 Idiomas
-
-**Português:** Nativo
-
-**Inglês:** Básico
-
----
-
-## 📫 Contato
-
-📧 **Email:** paulo.luciano513@gmail.com
-
-💻 **GitHub:** [paulosamuel-dev](https://github.com/paulosamuel-dev)
+Conquistar minha **primeira oportunidade na área de TI**, adquirir experiência e continuar aprendendo na prática.
 
 ---
 
